@@ -5,12 +5,8 @@ namespace App\Http\Livewire;
 use App\Models\Item;
 use Livewire\Component;
 use App\Models\Category;
-use App\Jobs\RemoveFaces;
 use App\Jobs\ResizeImage;
 use Livewire\WithFileUploads;
-use App\Jobs\GoogleVisionLabelImage;
-use App\Jobs\GoogleVisionSafeSearch;
-use App\Jobs\WaterMark;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\File;
 
@@ -80,20 +76,13 @@ class CreateItemForm extends Component
             }
             array_unshift($this->images,$previewImage);
             foreach($this->images as $image){
-                
-                
-                // dd($this->images);
                 $newFileName = "items/{$item->id}";
                 
                 $newImage = $item->images()->create(['path'=>$image->store($newFileName, 'public')]);
                 
-                RemoveFaces::withChain([
-                    new ResizeImage($newImage->path, 1200, 900),
-                    new ResizeImage($newImage->path, 900, 1200),
-                    new GoogleVisionSafeSearch($newImage->id),
-                    new GoogleVisionLabelImage($newImage->id),
-                    // new WaterMark($newImage->id),
-                ])->dispatch($newImage->id);
+                    dispatch(new ResizeImage($newImage->path, 1200, 900));
+                    dispatch(new ResizeImage($newImage->path, 900, 1200));
+
             }
             File::deleteDirectory(storage_path('/app/livewire-tmp'));
         }
@@ -101,7 +90,7 @@ class CreateItemForm extends Component
         session()->flash('itemCreated', 'Hai inserito con successo il tuo annuncio!');
         $this->reset();
     }
-
+    
     public function render()
     {
         $categories = Category::all();

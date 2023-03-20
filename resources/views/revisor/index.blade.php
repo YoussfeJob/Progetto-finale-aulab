@@ -22,7 +22,7 @@
             @foreach ($item_to_check->images as $image)
             <div class="carousel-item @if($loop->first) active @endif" data-bs-interval="0">
               <img src="{{$image->getUrl(1200, 900)}}" class="d-block w-100" alt="...">
-              <div class="mt-3 pb-3" style="height: 21rem">
+              <div class="mt-3 pb-3">
                 <div class="mb-3">
                   @if ($image->labels)
                   @foreach ($image->labels as $label)
@@ -30,11 +30,6 @@
                   @endforeach
                   @endif
                 </div>
-                <p>Adulti: <span class="{{$image->adult}}"></span></p>
-                <p>Satira: <span class="{{$image->spoof}}"></span></p>
-                <p>Medicina: <span class="{{$image->medical}}"></span></p>
-                <p>Violenza: <span class="{{$image->violence}}"></span></p>
-                <p>Contenuto Ammiccante: <span class="{{$image->racy}}"></span></p>
               </div>
             </div>
             @endforeach
@@ -84,7 +79,6 @@
     {{-- Seconda Condizione --}}
     <div class="row justify-content-center mb-3">
       @if($item_to_check && !$item_to_undo)
-      {{-- <div class="col-12 col-md-6"> --}}
         <div class="col-12 col-md-6">
           <h1>{{$item_to_check->title}}</h1>
           <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
@@ -98,19 +92,14 @@
               @foreach ($item_to_check->images as $image)
               <div class="carousel-item @if($loop->first) active @endif" data-bs-interval="0">
                 <img src="{{$image->getUrl(1200, 900)}}" class="d-block w-100" alt="...">
-                <div class="mt-3 pb-3" style="height: 21rem">
-                  <div class="mb-3">
+                <div class="mt-3 pb-3">
+                  <div class="">
                     @if ($image->labels)
                     @foreach ($image->labels as $label)
                       <p class="d-inline text-dark">#{{$label}}</p>
                     @endforeach
                     @endif
                   </div>
-                  <p>Adulti: <span class="{{$image->adult}}"></span></p>
-                  <p>Satira: <span class="{{$image->spoof}}"></span></p>
-                  <p>Medicina: <span class="{{$image->medical}}"></span></p>
-                  <p>Violenza: <span class="{{$image->violence}}"></span></p>
-                  <p>Contenuto Ammiccante: <span class="{{$image->racy}}"></span></p>
                 </div>
               </div>
               @endforeach
@@ -152,9 +141,9 @@
       @endif
     </div>
     {{-- Terza Condizione --}}
-    <div class="row justify-content-center min-vh-100">
+    <div class="row justify-content-center">
       @if($item_to_undo && !$item_to_check)
-      <div class="col-12 col-md-3 mb-5">
+      <div class="col-12 col-md-3">
         <form action="{{route('revisor.undo-item', ['item' => $item_to_undo])}}" method="POST">
           @csrf
           @method('PATCH')
@@ -162,8 +151,6 @@
         </form>
       </div>
       @endif
-      {{-- </div> --}}
     </div>
-    {{-- </div> --}}
   </div>
 </x-layout>

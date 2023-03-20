@@ -1,0 +1,435 @@
+{
+  "public/fonts/cabin/cabin-v26-latin-regular.eot": {
+    "file": "assets/cabin-v26-latin-regular.1803c998.eot",
+    "src": "public/fonts/cabin/cabin-v26-latin-regular.eot"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600.eot": {
+    "file": "assets/cabin-v26-latin-600.24114a87.eot",
+    "src": "public/fonts/cabin/cabin-v26-latin-600.eot"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500.eot": {
+    "file": "assets/cabin-v26-latin-500.e88d8d79.eot",
+    "src": "public/fonts/cabin/cabin-v26-latin-500.eot"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700.eot": {
+    "file": "assets/cabin-v26-latin-700.e9cfb28a.eot",
+    "src": "public/fonts/cabin/cabin-v26-latin-700.eot"
+  },
+  "public/fonts/cabin/cabin-v26-latin-italic.eot": {
+    "file": "assets/cabin-v26-latin-italic.87f60a87.eot",
+    "src": "public/fonts/cabin/cabin-v26-latin-italic.eot"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500italic.eot": {
+    "file": "assets/cabin-v26-latin-500italic.b2567560.eot",
+    "src": "public/fonts/cabin/cabin-v26-latin-500italic.eot"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600italic.eot": {
+    "file": "assets/cabin-v26-latin-600italic.3a964503.eot",
+    "src": "public/fonts/cabin/cabin-v26-latin-600italic.eot"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700italic.eot": {
+    "file": "assets/cabin-v26-latin-700italic.d412cac5.eot",
+    "src": "public/fonts/cabin/cabin-v26-latin-700italic.eot"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-100.eot": {
+    "file": "assets/catamaran-v17-latin-100.129cc3a0.eot",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-100.eot"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-200.eot": {
+    "file": "assets/catamaran-v17-latin-200.e03af66b.eot",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-200.eot"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-300.eot": {
+    "file": "assets/catamaran-v17-latin-300.bdd2e374.eot",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-300.eot"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-regular.eot": {
+    "file": "assets/catamaran-v17-latin-regular.19fb87cc.eot",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-regular.eot"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-500.eot": {
+    "file": "assets/catamaran-v17-latin-500.7c662b6a.eot",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-500.eot"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-600.eot": {
+    "file": "assets/catamaran-v17-latin-600.7a4b7fde.eot",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-600.eot"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-700.eot": {
+    "file": "assets/catamaran-v17-latin-700.3b02ffa6.eot",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-700.eot"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-800.eot": {
+    "file": "assets/catamaran-v17-latin-800.020ac168.eot",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-800.eot"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-900.eot": {
+    "file": "assets/catamaran-v17-latin-900.5f9ce268.eot",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-900.eot"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400.c61287c2.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "public/fonts/kaushan/kaushan-script-v14-latin-regular.eot": {
+    "file": "assets/kaushan-script-v14-latin-regular.7aced6c0.eot",
+    "src": "public/fonts/kaushan/kaushan-script-v14-latin-regular.eot"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900.8f06540f.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "public/fonts/playball/playball-v16-latin-regular.eot": {
+    "file": "assets/playball-v16-latin-regular.aa799157.eot",
+    "src": "public/fonts/playball/playball-v16-latin-regular.eot"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400.5da313b0.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "assets/fa-v4compatibility.f46715c9.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "public/fonts/cabin/cabin-v26-latin-regular.woff2": {
+    "file": "assets/cabin-v26-latin-regular.a3d8afcb.woff2",
+    "src": "public/fonts/cabin/cabin-v26-latin-regular.woff2"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500.woff2": {
+    "file": "assets/cabin-v26-latin-500.510ce450.woff2",
+    "src": "public/fonts/cabin/cabin-v26-latin-500.woff2"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600.woff2": {
+    "file": "assets/cabin-v26-latin-600.ee02181d.woff2",
+    "src": "public/fonts/cabin/cabin-v26-latin-600.woff2"
+  },
+  "public/fonts/cabin/cabin-v26-latin-italic.woff2": {
+    "file": "assets/cabin-v26-latin-italic.358684a3.woff2",
+    "src": "public/fonts/cabin/cabin-v26-latin-italic.woff2"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600italic.woff2": {
+    "file": "assets/cabin-v26-latin-600italic.dce6c9c0.woff2",
+    "src": "public/fonts/cabin/cabin-v26-latin-600italic.woff2"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700italic.woff2": {
+    "file": "assets/cabin-v26-latin-700italic.7fb9e383.woff2",
+    "src": "public/fonts/cabin/cabin-v26-latin-700italic.woff2"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700.woff2": {
+    "file": "assets/cabin-v26-latin-700.45a8badf.woff2",
+    "src": "public/fonts/cabin/cabin-v26-latin-700.woff2"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-100.woff2": {
+    "file": "assets/catamaran-v17-latin-100.b2be7cb9.woff2",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-100.woff2"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-200.woff2": {
+    "file": "assets/catamaran-v17-latin-200.e8813b4f.woff2",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-200.woff2"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500italic.woff2": {
+    "file": "assets/cabin-v26-latin-500italic.c04c9e7f.woff2",
+    "src": "public/fonts/cabin/cabin-v26-latin-500italic.woff2"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-regular.woff2": {
+    "file": "assets/catamaran-v17-latin-regular.1917d8c1.woff2",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-regular.woff2"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-300.woff2": {
+    "file": "assets/catamaran-v17-latin-300.3bb0e936.woff2",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-300.woff2"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-600.woff2": {
+    "file": "assets/catamaran-v17-latin-600.1ce72cff.woff2",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-600.woff2"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-700.woff2": {
+    "file": "assets/catamaran-v17-latin-700.acf40ded.woff2",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-700.woff2"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-800.woff2": {
+    "file": "assets/catamaran-v17-latin-800.62c66e24.woff2",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-800.woff2"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-900.woff2": {
+    "file": "assets/catamaran-v17-latin-900.0be6c1a1.woff2",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-900.woff2"
+  },
+  "public/fonts/kaushan/kaushan-script-v14-latin-regular.woff2": {
+    "file": "assets/kaushan-script-v14-latin-regular.cce6e5a4.woff2",
+    "src": "public/fonts/kaushan/kaushan-script-v14-latin-regular.woff2"
+  },
+  "public/media/clothes-1839935.jpg": {
+    "file": "assets/clothes-1839935.535824e9.jpg",
+    "src": "public/media/clothes-1839935.jpg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-500.woff2": {
+    "file": "assets/catamaran-v17-latin-500.9d89f618.woff2",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-500.woff2"
+  },
+  "public/fonts/playball/playball-v16-latin-regular.woff2": {
+    "file": "assets/playball-v16-latin-regular.2bdb2c28.woff2",
+    "src": "public/fonts/playball/playball-v16-latin-regular.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400.b1d1c1b0.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900.e4f6a7e9.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400.d7b19fe2.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "assets/fa-v4compatibility.2ddb3b41.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500.woff": {
+    "file": "assets/cabin-v26-latin-500.196c1f1f.woff",
+    "src": "public/fonts/cabin/cabin-v26-latin-500.woff"
+  },
+  "public/fonts/cabin/cabin-v26-latin-regular.woff": {
+    "file": "assets/cabin-v26-latin-regular.61fe7ea4.woff",
+    "src": "public/fonts/cabin/cabin-v26-latin-regular.woff"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600.woff": {
+    "file": "assets/cabin-v26-latin-600.d6cc7e6f.woff",
+    "src": "public/fonts/cabin/cabin-v26-latin-600.woff"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600italic.woff": {
+    "file": "assets/cabin-v26-latin-600italic.1ff8f4e1.woff",
+    "src": "public/fonts/cabin/cabin-v26-latin-600italic.woff"
+  },
+  "public/fonts/cabin/cabin-v26-latin-italic.woff": {
+    "file": "assets/cabin-v26-latin-italic.aaf876da.woff",
+    "src": "public/fonts/cabin/cabin-v26-latin-italic.woff"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700italic.woff": {
+    "file": "assets/cabin-v26-latin-700italic.6b6a7dc6.woff",
+    "src": "public/fonts/cabin/cabin-v26-latin-700italic.woff"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700.woff": {
+    "file": "assets/cabin-v26-latin-700.5a4b9ccd.woff",
+    "src": "public/fonts/cabin/cabin-v26-latin-700.woff"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-100.woff": {
+    "file": "assets/catamaran-v17-latin-100.53f88c77.woff",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-100.woff"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500italic.woff": {
+    "file": "assets/cabin-v26-latin-500italic.2d1432f4.woff",
+    "src": "public/fonts/cabin/cabin-v26-latin-500italic.woff"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-200.woff": {
+    "file": "assets/catamaran-v17-latin-200.0cf31a5d.woff",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-200.woff"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-regular.woff": {
+    "file": "assets/catamaran-v17-latin-regular.cef61a97.woff",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-regular.woff"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-600.woff": {
+    "file": "assets/catamaran-v17-latin-600.dcbe59e3.woff",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-600.woff"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-700.woff": {
+    "file": "assets/catamaran-v17-latin-700.31ea7c0b.woff",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-700.woff"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-300.woff": {
+    "file": "assets/catamaran-v17-latin-300.d9c11520.woff",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-300.woff"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-800.woff": {
+    "file": "assets/catamaran-v17-latin-800.0b2ce65d.woff",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-800.woff"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-900.woff": {
+    "file": "assets/catamaran-v17-latin-900.b15a9ede.woff",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-900.woff"
+  },
+  "public/fonts/kaushan/kaushan-script-v14-latin-regular.woff": {
+    "file": "assets/kaushan-script-v14-latin-regular.20ad5299.woff",
+    "src": "public/fonts/kaushan/kaushan-script-v14-latin-regular.woff"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-500.woff": {
+    "file": "assets/catamaran-v17-latin-500.317e6f68.woff",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-500.woff"
+  },
+  "public/fonts/playball/playball-v16-latin-regular.woff": {
+    "file": "assets/playball-v16-latin-regular.172cd291.woff",
+    "src": "public/fonts/playball/playball-v16-latin-regular.woff"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500.ttf": {
+    "file": "assets/cabin-v26-latin-500.fc387639.ttf",
+    "src": "public/fonts/cabin/cabin-v26-latin-500.ttf"
+  },
+  "public/fonts/cabin/cabin-v26-latin-regular.ttf": {
+    "file": "assets/cabin-v26-latin-regular.3c1ad39b.ttf",
+    "src": "public/fonts/cabin/cabin-v26-latin-regular.ttf"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600.ttf": {
+    "file": "assets/cabin-v26-latin-600.fbc8526d.ttf",
+    "src": "public/fonts/cabin/cabin-v26-latin-600.ttf"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600italic.ttf": {
+    "file": "assets/cabin-v26-latin-600italic.5cd55f25.ttf",
+    "src": "public/fonts/cabin/cabin-v26-latin-600italic.ttf"
+  },
+  "public/fonts/cabin/cabin-v26-latin-italic.ttf": {
+    "file": "assets/cabin-v26-latin-italic.a7d45085.ttf",
+    "src": "public/fonts/cabin/cabin-v26-latin-italic.ttf"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-100.ttf": {
+    "file": "assets/catamaran-v17-latin-100.14cf3799.ttf",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-100.ttf"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700.ttf": {
+    "file": "assets/cabin-v26-latin-700.ab5e4819.ttf",
+    "src": "public/fonts/cabin/cabin-v26-latin-700.ttf"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700italic.ttf": {
+    "file": "assets/cabin-v26-latin-700italic.0ae76204.ttf",
+    "src": "public/fonts/cabin/cabin-v26-latin-700italic.ttf"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-200.ttf": {
+    "file": "assets/catamaran-v17-latin-200.8846ef6b.ttf",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-200.ttf"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-regular.ttf": {
+    "file": "assets/catamaran-v17-latin-regular.44ba3355.ttf",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-regular.ttf"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500italic.ttf": {
+    "file": "assets/cabin-v26-latin-500italic.f0fa4fb0.ttf",
+    "src": "public/fonts/cabin/cabin-v26-latin-500italic.ttf"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-300.ttf": {
+    "file": "assets/catamaran-v17-latin-300.8308bc5d.ttf",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-300.ttf"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-600.ttf": {
+    "file": "assets/catamaran-v17-latin-600.7c0c34b9.ttf",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-600.ttf"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-700.ttf": {
+    "file": "assets/catamaran-v17-latin-700.0e364cea.ttf",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-700.ttf"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-800.ttf": {
+    "file": "assets/catamaran-v17-latin-800.6afa0120.ttf",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-800.ttf"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-900.ttf": {
+    "file": "assets/catamaran-v17-latin-900.d98e8a1c.ttf",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-900.ttf"
+  },
+  "public/fonts/kaushan/kaushan-script-v14-latin-regular.ttf": {
+    "file": "assets/kaushan-script-v14-latin-regular.61ea5ea2.ttf",
+    "src": "public/fonts/kaushan/kaushan-script-v14-latin-regular.ttf"
+  },
+  "public/fonts/playball/playball-v16-latin-regular.ttf": {
+    "file": "assets/playball-v16-latin-regular.0dd75288.ttf",
+    "src": "public/fonts/playball/playball-v16-latin-regular.ttf"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-500.ttf": {
+    "file": "assets/catamaran-v17-latin-500.ca818fc0.ttf",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-500.ttf"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500.svg": {
+    "file": "assets/cabin-v26-latin-500.f09be9b5.svg",
+    "src": "public/fonts/cabin/cabin-v26-latin-500.svg"
+  },
+  "public/fonts/cabin/cabin-v26-latin-regular.svg": {
+    "file": "assets/cabin-v26-latin-regular.becfd414.svg",
+    "src": "public/fonts/cabin/cabin-v26-latin-regular.svg"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600.svg": {
+    "file": "assets/cabin-v26-latin-600.7dbbf2cd.svg",
+    "src": "public/fonts/cabin/cabin-v26-latin-600.svg"
+  },
+  "public/fonts/cabin/cabin-v26-latin-600italic.svg": {
+    "file": "assets/cabin-v26-latin-600italic.12342005.svg",
+    "src": "public/fonts/cabin/cabin-v26-latin-600italic.svg"
+  },
+  "public/fonts/cabin/cabin-v26-latin-italic.svg": {
+    "file": "assets/cabin-v26-latin-italic.bfb48daa.svg",
+    "src": "public/fonts/cabin/cabin-v26-latin-italic.svg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-100.svg": {
+    "file": "assets/catamaran-v17-latin-100.617176f9.svg",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-100.svg"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700.svg": {
+    "file": "assets/cabin-v26-latin-700.6be2cf01.svg",
+    "src": "public/fonts/cabin/cabin-v26-latin-700.svg"
+  },
+  "public/fonts/cabin/cabin-v26-latin-700italic.svg": {
+    "file": "assets/cabin-v26-latin-700italic.00f3deed.svg",
+    "src": "public/fonts/cabin/cabin-v26-latin-700italic.svg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-200.svg": {
+    "file": "assets/catamaran-v17-latin-200.635f78bc.svg",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-200.svg"
+  },
+  "public/fonts/cabin/cabin-v26-latin-500italic.svg": {
+    "file": "assets/cabin-v26-latin-500italic.5080c2a1.svg",
+    "src": "public/fonts/cabin/cabin-v26-latin-500italic.svg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-regular.svg": {
+    "file": "assets/catamaran-v17-latin-regular.00df82fc.svg",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-regular.svg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-300.svg": {
+    "file": "assets/catamaran-v17-latin-300.c2d5fc55.svg",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-300.svg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-600.svg": {
+    "file": "assets/catamaran-v17-latin-600.598acfde.svg",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-600.svg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-700.svg": {
+    "file": "assets/catamaran-v17-latin-700.be587f65.svg",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-700.svg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-900.svg": {
+    "file": "assets/catamaran-v17-latin-900.099bcbf5.svg",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-900.svg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-800.svg": {
+    "file": "assets/catamaran-v17-latin-800.92ea593a.svg",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-800.svg"
+  },
+  "public/fonts/catamaran/catamaran-v17-latin-500.svg": {
+    "file": "assets/catamaran-v17-latin-500.4fea1909.svg",
+    "src": "public/fonts/catamaran/catamaran-v17-latin-500.svg"
+  },
+  "public/fonts/kaushan/kaushan-script-v14-latin-regular.svg": {
+    "file": "assets/kaushan-script-v14-latin-regular.7b0f2570.svg",
+    "src": "public/fonts/kaushan/kaushan-script-v14-latin-regular.svg"
+  },
+  "public/fonts/playball/playball-v16-latin-regular.svg": {
+    "file": "assets/playball-v16-latin-regular.5ec4d908.svg",
+    "src": "public/fonts/playball/playball-v16-latin-regular.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.75c0dfc4.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.2d4c25b0.css"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.2d4c25b0.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.58bf97f7.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}
