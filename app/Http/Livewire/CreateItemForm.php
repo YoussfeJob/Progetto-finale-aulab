@@ -55,19 +55,19 @@ class CreateItemForm extends Component
 
     public function store(){
         $numFormat = str_replace(",",".",$this->price);
-        $secondFloatRound = number_format((float)$numFormat, 2);
-
+        // $secondFloatRound = number_format((float)$numFormat, 2);
+        // dd($secondFloatRound);
         $this->validate();
 
         $item = Item::create([
             'title' => $this->title,
             'category_id' => $this->category,
             'description' => $this->description,
-            'price' => $secondFloatRound,
+            'price' => $numFormat,
             'user_id' => Auth::user()->id
         ]);
 
-        
+        // dd($item->price);
         
         if(count($this->images)){
             $previewImage = $this->images[$this->previewKey];
